@@ -1,1 +1,1 @@
-python3.6 best_result.py ${1} ${2} ${3}
+python3.6 best_result.py ${1} ${2}
