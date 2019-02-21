@@ -1,7 +1,7 @@
 # Machine Learning Projects
 Here are all the ML related projects that I have done.
 ## Malicious Comments Identification
-To classify images of different sentiments 
+To detect malicious comments on Dcard
 
 Ranked top 1% on private leaderboard ([Kaggle Link](https://www.kaggle.com/t/6fb2e644f95f450c9419dd74701ec391))
 ### Technique
