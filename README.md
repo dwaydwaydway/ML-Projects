@@ -1,5 +1,5 @@
 # Machine Learning Projects
-Here are all the ML related projects that I have done.
+Here are the ML related projects that I have done.
 ## Malicious Comments Identification
 To detect malicious comments on Dcard
 
