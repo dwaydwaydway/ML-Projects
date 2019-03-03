@@ -27,7 +27,7 @@ $ bash train.sh <train_x file> <train_y file> <test_x.csv file> <dict.txt.big fi
 $ bash test.sh <test_x file> <dict.txt.big file> <output file>
 ```
 
-## PM2.5 Preduction
+## PM2.5 Prediction
 To predict the PM2.5 concentration of the next hour using data of the nine previous hours. 
 
 Ranked top 15% on private leaderboard ([Kaggle Link](https://www.kaggle.com/t/39e5638799ce440d89c19297afef9cf2))
